@@ -1,0 +1,5 @@
+1. 2-class, continuous 1D feature: 
+2. continuous nD, 2-class: http://archive.ics.uci.edu/ml/datasets/banknote+authentication
+3. continuous nD, k-class: http://archive.ics.uci.edu/ml/datasets/Image+Segmentation
+4. binary nD 2-class
+5. discrete nD, 2-class
